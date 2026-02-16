@@ -2,6 +2,9 @@
 
 Aplicación web para consultar el clima, creada con React, Vite y Tailwind CSS. Incluye vista del clima actual, pronóstico por horas y días, búsqueda de ciudades, lista de favoritos y un asistente opcional basado en Gemini.
 
+## Link 
+https://clim-ia-app.netlify.app/
+
 ## Características
 
 - Clima actual, pronóstico horario (24h) y pronóstico diario (5 días).
